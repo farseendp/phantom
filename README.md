@@ -63,9 +63,9 @@ If you can't have a config.py file (EG on heroku), it is also possible to use en
 The following env variables are supported:
  - `ENV`: Setting this to ANYTHING will enable env variables
 
- - `TOKEN`: Your bot token, as a string.
- - `OWNER_ID`: An integer of consisting of your owner ID
- - `OWNER_USERNAME`: Your username
+ - `TOKEN`: 1383074399:AAFUwiA1JGc7Wr2P84EbjNEhgcB3oc3d45A
+ - `OWNER_ID`: 1370747399
+ - `OWNER_USERNAME`: @Farseen_king_of_telegram
 
  - `DATABASE_URL`: Your database URL
  - `MESSAGE_DUMP`: optional: a chat where your replied saved messages are stored, to stop people deleting their old 
